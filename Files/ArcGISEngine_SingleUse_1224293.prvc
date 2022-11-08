@@ -1,0 +1,24 @@
+// ArcGISEngine_SingleUse_1224293.prvc
+
+//Provision
+Provision ID=AD48ACD8-E2D7-480D-A392AEF11B735F65
+Comment=
+
+
+// User Information
+First Name=Madeline
+Last Name=Amlin
+Organization=Tuolumne County
+Department=
+Email=mamlin@co.tuolumne.ca.us
+Address 1=2 s Green St
+City=Sonora
+State/Province=CA
+Location Code=US
+Location=US
+Zip/Postal Code=95370
+Phone Number=2095336592
+// Version=10.0
+
+// Features and authorization numbers
+ArcGIS Engine Runtime=ESU006436879
